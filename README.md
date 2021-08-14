@@ -1,3 +1,5 @@
+# This was simple react app which made use of concepts like react hooks, useState, map function to create a notes-keeper app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
